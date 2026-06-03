@@ -11,7 +11,7 @@ They have been applied and evaluated using Entropy, AOPC, and Insertion/Deletion
 | Model     | Accuracy | Precision | Recall | F1   |
 |-----------|----------|-----------|--------|------|
 | ResNet18  | 0.99     | 0.99      | 0.99   | 0.99 |
-| ViT-B/16  | 0.98     | 0.98      | 0.98   | 0.98 |
+| ViT-B/16  | 0.97     | 0.97      | 0.97   | 0.97 |
 
 ## How to Run
 1. Open ExCV.ipynb in Google Colab
@@ -23,7 +23,7 @@ They have been applied and evaluated using Entropy, AOPC, and Insertion/Deletion
 COVID-19 Chest X-Ray dataset provided by AIMS-DTU
 
 ## Outputs
-Model weights, saliency maps, and visualizations can be viewed at :
+Model weights, saliency maps and graphs etc can be viewed at :
 [Google Drive]
 (https://drive.google.com/drive/folders/1mCvkmk79Qir_eb2P1wMRMQddoRKUaZNL?usp=sharing)
 
